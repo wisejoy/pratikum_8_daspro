@@ -35,7 +35,7 @@ print(Rember(2, [])) # []
 print(Rember(2, [3])) # [3]
 print(Rember(2, [3, 4, 5, 2, 3, 5, 7, 8, 2])) # [3, 4, 5, 3, 5, 7, 8, 2]
 
-# --------------------Tugas Latihan--------------------
+# Tugas Latihan
 # DEFINISI DAN SPESIFIKASI OPERASI LIST YANG DIPERLUKAN UNTUK SET
 # Rember2: elemen, List -> List
 # {Rember2(x, L) menghapus sebuah elemen dari list L.
